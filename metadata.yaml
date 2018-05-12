@@ -1,0 +1,34 @@
+_repo: Don-Francisco-de-Quevedo--Drama-en-Cuatro-Actos_19847
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sanz, Eulogio Florentino
+    birthdate: 1822
+    deathdate: 1881
+    gutenberg_agent_id: '8915'
+    url: http://www.gutenberg.org/2009/agents/8915
+    wikipedia: http://es.wikipedia.org/wiki/Eulogio_Florentino_Sanz
+  editor:
+    agent_name: Rose, R. Selden (Robert Selden)
+    alias: Rose, Robert Selden
+    birthdate: 1888
+    deathdate: 1964
+    gutenberg_agent_id: '8916'
+    url: http://www.gutenberg.org/2009/agents/8916
+description: ''
+gutenberg_issued: '2006-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19847'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Quevedo, Francisco de, 1580-1645 -- Drama'
+title: 'Don Francisco de Quevedo: Drama en Cuatro Actos'
+url: http://www.gutenberg.org/ebooks/19847
